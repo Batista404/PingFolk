@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d61dd277611fbd45a4ac2c917decd59, type: 3}
+  m_Name: Comprar
+  m_EditorClassIdentifier: 
+  sections:
+  - dialogue:
+    - $"Quer algo? {ExploreInfo.Instance.Teste}"
+    actionNumber: 1
+    endAfterDialogue: 0
+    branchPoint:
+      question: 5+ algo?
+      answers:
+      - answerLabel: Sim
+        nextElement: 0
+        actionNumber: 2
+      - answerLabel: "n\xE3o"
+        nextElement: 1
+        actionNumber: 0
+  - dialogue:
+    - Bye
+    actionNumber: 0
+    endAfterDialogue: 1
+    branchPoint:
+      question: '0
+
+'
+      answers: []

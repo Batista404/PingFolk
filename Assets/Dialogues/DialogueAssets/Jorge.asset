@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a8a2f9145620434eab4043248a5e70a, type: 3}
+  m_Name: Jorge
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Eu sou o jorge. me mate
+  - "Voc\xEA n\xE3o quer me matar?"
+  - "Eu vou matar voc\xEA"
+  - "VOC\xCA EST\xC1 FODIDO"

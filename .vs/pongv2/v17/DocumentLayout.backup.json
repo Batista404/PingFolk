@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Projects\\pongv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|e:\\unity\\projects\\pongv2\\assets\\scripts\\pointsexplore\\explomoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointsexplore\\explomoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|e:\\unity\\projects\\pongv2\\assets\\scripts\\dialogue\\player2ddi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\player2ddi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|E:\\Unity\\Projects\\pongv2\\assets\\scripts\\dialogue\\dialogueboxcontrollermulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\dialogueboxcontrollermulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|e:\\unity\\projects\\pongv2\\assets\\scripts\\pointsexplore\\controlls\\playerpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFB3D7-5552-0836-3A00-A5926560297A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointsexplore\\controlls\\playerpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExploMoves.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\PointsExplore\\ExploMoves.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PointsExplore\\ExploMoves.cs",
+              "ToolTip": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\PointsExplore\\ExploMoves.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PointsExplore\\ExploMoves.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:33:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerPoints.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\PointsExplore\\Controlls\\PlayerPoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PointsExplore\\Controlls\\PlayerPoints.cs",
+              "ToolTip": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\PointsExplore\\Controlls\\PlayerPoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PointsExplore\\Controlls\\PlayerPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:32:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player2DDi.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\Dialogue\\Player2DDi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\Player2DDi.cs",
+              "ToolTip": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\Dialogue\\Player2DDi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\Player2DDi.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:02:22.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueBoxControllerMulti.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\Dialogue\\DialogueBoxControllerMulti.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\DialogueBoxControllerMulti.cs",
+              "ToolTip": "E:\\Unity\\Projects\\pongv2\\Assets\\Scripts\\Dialogue\\DialogueBoxControllerMulti.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\DialogueBoxControllerMulti.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:56:02.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

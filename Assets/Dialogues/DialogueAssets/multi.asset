@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d61dd277611fbd45a4ac2c917decd59, type: 3}
+  m_Name: multi
+  m_EditorClassIdentifier: 
+  sections:
+  - dialogue:
+    - Vou matar voce
+    - o que vc acha?
+    - dedeed
+    endAfterDialogue: 0
+    branchPoint:
+      question: Quer me matar? :c
+      answers:
+      - answerLabel: sim 0
+        nextElement: 1
+      - answerLabel: nao 1 0
+        nextElement: 2
+      - answerLabel: sair
+        nextElement: 3
+  - dialogue:
+    - "Voc\xEA \xE9 cruel hein"
+    - o que vc acha?
+    - kkkkkkkkkkkkkkkkkk
+    endAfterDialogue: 0
+    branchPoint:
+      question: Voltar para primeira pergunta
+      answers:
+      - answerLabel: sim 1
+        nextElement: 0
+      - answerLabel: nao 1
+        nextElement: 2
+      - answerLabel: sair
+        nextElement: 3
+  - dialogue:
+    - "Quer ver quem \xE9 mais forte no soco ent\xE3o?"
+    - o que vc acha?
+    endAfterDialogue: 0
+    branchPoint:
+      question: "T\xE1 p\xE1 nas ideias"
+      answers:
+      - answerLabel: sim 3
+        nextElement: 1
+      - answerLabel: nao 3
+        nextElement: 2
+  - dialogue:
+    - 'Bye!!!!!
+
+'
+    endAfterDialogue: 1
+    branchPoint:
+      question: 
+      answers: []
